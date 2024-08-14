@@ -2,7 +2,7 @@ For everything new about AI
 =======
 ## What is it?
 
-To record my everyday work about AI, including finding new AI tools, buiding an AI agents or workflow, etc.
+To record my everyday work about AI, including finding new AI tools, building AI agents or workflow, etc.
 
 ## Contents
 
