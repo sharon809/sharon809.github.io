@@ -1,14 +1,11 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Chenyx
+title: Chenyx | A blog
+description: To record my everyday work about AI, including finding new AI tools, building AI agents or workflow, etc.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - AI tools
+  - AI agent
 show_hero: true
 menu:
   - title: Home
@@ -29,12 +26,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: sharon809
+#facebook_username: facebook_username
+#twitter_username: twitter_username
+#instagram_username: instagram_username
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 
 
 # Posts Settings
