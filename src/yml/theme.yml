@@ -1,5 +1,16 @@
+#themeColor: '#ff0a16'
+#primaryDark: '#141414'
+#accentDark: '#ffffff'
+#lightGray: '#f2f2f2'
+#texts: '#333333'
+
+#Color used in links, icons and some custom elements.
 themeColor: '#ff0a16'
-primaryDark: '#141414'
+#Color used in dark backgrounds and some texts.
+primaryDark: '#6f938f'
+#Color used in light backgrounds and as contrast to dark backgrounds.
 accentDark: '#ffffff'
+#Color used in borders, contrast to light backgrounds, some links and subtitles.
 lightGray: '#f2f2f2'
+#Color used in texts overall.
 texts: '#333333'
