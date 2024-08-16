@@ -1,13 +1,10 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Chenyx
+title: Chenyx | A blog
+description: To record my everyday work about AI, including finding new AI tools, building AI agents or workflow, etc.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - AI tools
+  - AI agent
 show_hero: true
 menu:
   - title: Home
@@ -18,9 +15,9 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: 824611264@qq.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: chenyx
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: chenyx
