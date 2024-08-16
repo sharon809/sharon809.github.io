@@ -1,5 +1,5 @@
 name: Chenyx
-title: Chenyx | A blog
+title: Chenyx | Blog
 description: To record my everyday work about AI, including finding new AI tools, building AI agents or workflow, etc.
 tags:
   - blog
@@ -13,8 +13,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+#  - title: Feed
+#    url: /feed.xml
 email: 824611264@qq.com
 # See: https://disqus.com/
 disqus_username: chenyx
