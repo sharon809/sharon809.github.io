@@ -1,6 +1,10 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+# the subpath of your site, e.g. /blog
+baseurl: ""
+# the base hostname & protocol for your site
+url: "https://www.chenyx.top/"
+#Set your Google Analytics tracking ID.
 google_analytics: "UA-XXXXXXXX-X"
+#Set your website language. It's used for SEO purposes (e.g. pt-BR, en, es, fr)
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
