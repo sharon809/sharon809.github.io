@@ -1,6 +1,6 @@
 # Site Settings
 name: Chenyx
-title: Chenyx | A blog
+title: Chenyx | Blog
 description: To record my everyday work about AI, including finding new AI tools, building AI agents or workflow, etc.
 tags:
   - blog
@@ -14,14 +14,14 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+#  - title: Feed
+#    url: /feed.xml
+email: 824611264@qq.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: chenyx
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: chenyx
 
 
 # Social Media Settings

@@ -1,4 +1,8 @@
+#Show/hide the reading progress bar.
 show_time_bar: true
+#Show/hide recommendation modal when visitor is leaving the page.
 show_modal_on_exit: false
+#Show/hide recommendation modal when visitor reaches the end of the post.
 show_modal_on_finish_post: true
-two_columns_layout: true
+#Switch posts layout between one and two column.
+two_columns_layout: false
